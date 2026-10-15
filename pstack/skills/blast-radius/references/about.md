@@ -1,0 +1,15 @@
+---
+audience: engineering
+metadata:
+  audience: engineering
+---
+
+# Blast radius — About
+
+## Overview
+
+Find what a change could break somewhere else before it ships, beyond the diff, and prove the one fact it's safe because of by running real code instead of writing it up.
+
+## When to use
+
+Use for 'blast radius of X', 'what could this break', or reviewing a small diff you don't trust.

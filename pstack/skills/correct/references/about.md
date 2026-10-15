@@ -1,0 +1,15 @@
+---
+audience: engineering
+metadata:
+  audience: engineering
+---
+
+# Correct — About
+
+## Overview
+
+Find the mistakes agents keep repeating in this repo and make each one impossible. Try architecture first, then types, then a lint whose error names the fix, then a test, and write docs last. Prove each check fails on a real past mistake.
+
+## When to use
+
+Repeat this each time the operator corrects you. Use for /correct.

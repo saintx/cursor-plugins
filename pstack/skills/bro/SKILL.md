@@ -4,4 +4,8 @@ description: Restate the last message in plain human language, with no jargon.
 disable-model-invocation: true
 ---
 
-Restate your last message. Stop using jargon and speak coherently. State it more simply and concisely, like one human talking to another.
+# Bro
+
+## Index
+
+`surf --list references/index.md` lists this skill's intents. `surf references/index.md "<Heading>#<Subheading>#<Intent>"` returns the command for one: a path of parent headings joined by `#` reaches any heading, and a bare heading name returns its first match. Paths are relative to this skill's base directory. See `surf --help` for other options.
